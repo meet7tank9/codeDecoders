@@ -1,0 +1,28 @@
+.offer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    padding: 20px 0;
+    background-color: rgba(237, 235, 235, 0.627);
+    gap: 3rem;
+}
+
+.offerText1{
+    font-size: xx-large;
+}
+
+.offerText2{
+    font-size: x-large;
+}
+
+.offerButton{
+    height: 50px;
+    font-size: large;
+    border: none;
+    background-color: rgb(194, 191, 191);
+    padding: 15px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
